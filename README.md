@@ -25,8 +25,8 @@ $ cat go.mod
 module go.otter.engineering/gitmoddep
 
 require (
-	github.com/urfave/cli v1.20.1-0.20180821064027-934abfb2f102
-	go.uber.org/zap v1.9.2-0.20180814183419-67bc79d13d15
+  github.com/urfave/cli  934abfb2f102315b5794e15ebc7949e4ca253920
+  go.uber.org/zap  67bc79d13d155c02fd008f721863ff8cc5f30659
 )
 ```
 
@@ -45,7 +45,7 @@ $ cat go.mod
 module go.otter.engineering/gitmoddep
 
 require (
-  github.com/urfave/cli  934abfb2f102315b5794e15ebc7949e4ca253920
-  go.uber.org/zap  67bc79d13d155c02fd008f721863ff8cc5f30659
+	github.com/urfave/cli v1.20.1-0.20180821064027-934abfb2f102
+	go.uber.org/zap v1.9.2-0.20180814183419-67bc79d13d15
 )
 ```
