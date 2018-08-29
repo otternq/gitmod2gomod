@@ -1,5 +1,5 @@
 // Command gitmod2gomod converts git submodules in a vendor directory to a go.mod file.
-package main
+package main // import "go.otter.engineering/gitmod2gomod"
 
 import (
 	"log"
